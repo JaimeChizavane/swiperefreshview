@@ -1,0 +1,26 @@
+TASK info.androidhive.swiperefresh id=25
+  ACTIVITY info.androidhive.swiperefresh/.activity.MainActivity 32bd76e pid=3761
+    Local FragmentActivity 2fa2b64 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mActivity=info.androidhive.swiperefresh.activity.MainActivity@2fa2b64
+      mContainer=android.support.v4.app.FragmentActivity$2@11521cd
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.DecorView{c006929 V.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{69be28 V.E..... ... 0,0-1080,1776}
+          android.view.ViewStub{7b094d4 G.E..... ... 0,0-0,0 #10203ef android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{af8a972 V.E..... ... 0,72-1080,1776}
+            android.support.v7.internal.widget.ActionBarOverlayLayout{fad11c3 V.E..... ... 0,0-1080,1704 #7f0d003e app:id/decor_content_parent}
+              android.support.v7.internal.widget.NativeActionModeAwareLayout{7ec2a40 V.E..... ... 0,168-1080,1704 #1020002 android:id/content}
+                android.support.v4.widget.SwipeRefreshLayout{1edad79 V.ED.... ... 0,0-1080,1536 #7f0d004f app:id/swipe_refresh_layout}
+                  android.widget.ListView{1a3eabe V.ED.VC. ... 0,0-1080,1536 #7f0d0050 app:id/listView}
+                  android.support.v4.widget.CircleImageView{853e42b G.ED.... ... 480,-120-600,0}
+              android.support.v7.internal.widget.ActionBarContainer{ebc8a21 V.ED.... ... 0,0-1080,168 #7f0d003f app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{ee30e46 V.E..... ... 0,0-1080,168 #7f0d0040 app:id/action_bar}
+                  android.widget.TextView{52a9807 V.ED.... ... 48,43-501,124}
+                  android.support.v7.widget.ActionMenuView{e3fa01e V.E..... ... 1080,0-1080,168}
+                android.support.v7.internal.widget.ActionBarContextView{91480ff G.E..... ... 0,0-0,0 #7f0d0041 app:id/action_context_bar}
+        android.view.View{142cecc V.ED.... ... 0,1776-1080,1920 #1020030 android:id/navigationBarBackground}
+        android.view.View{23c6515 V.ED.... ... 0,0-1080,72 #102002f android:id/statusBarBackground}
